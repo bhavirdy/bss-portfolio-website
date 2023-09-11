@@ -18,15 +18,6 @@
         <v-spacer></v-spacer>
 
         <v-responsive max-width="160">
-          <v-text-field
-            density="compact"
-            flat
-            hide-details
-            label="Search"
-            rounded="lg"
-            single-line
-            variant="solo-filled"
-          ></v-text-field>
         </v-responsive>
       </v-container>
     </v-app-bar>
